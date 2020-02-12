@@ -6,4 +6,4 @@
 ```bash
     git init
    ```
- ![](Screenshot from 2020-02-12 11-21-19.png)
+ ![](images/Screenshot from 2020-02-12 11-21-19.png)
