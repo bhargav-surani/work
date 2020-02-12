@@ -48,5 +48,16 @@
    git push origin master
    ```
  ![](images/9.png)
+ ![](images/9-1.png)
  
- 9. 
+ 9. for change branch of git repository use "checkout" command.
+ ```
+   git checkout  <Branch name>
+   ```
+ ![](images/10.png)
+ 
+ 10. now if any changes made in any branch and for merge these changes use "git merge" command.
+ ```
+   git merge <Branch Name>
+   ```
+ ![](images/11.png)
