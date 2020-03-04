@@ -18,4 +18,5 @@
 
 9. Now upload index and error document on bucket.
 
-10. 
+10. Now click on `index.html`. it shows information of index.html. In overview we can see Object URL , open URL to see and confirm our static website is successfully hosted.
+
