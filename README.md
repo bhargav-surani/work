@@ -21,7 +21,7 @@ Now days, more than 70 percent of developers use Git, making git the most-used V
 
   * Git lets developers see the entire timeline of their changes, decisions, and progression of any project in one place. From the moment they access the history of a project, the developer has all the context they need to understand it and start contributing.
 
-  * Developers work in every time zone. With a DVCS like Git, collaboration can happen any time while maintaining source code integrity. Using branches, developers can safely propose changes to production code.
+  * Developers work in every time zone. With Git, collaboration can happen any time while change or adding source code integrity. Using branches, developers can safely make offer to changes in production code.
 
   * Businesses using Git can break down communication barriers between teams and keep them focused on doing their best work. Plus, Git makes it possible to align experts across a business to collaborate on major projects.
   
